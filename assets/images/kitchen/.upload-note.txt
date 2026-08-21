@@ -1,0 +1,1 @@
+Kitchen completed images are stored as WebP binary blobs; this temporary marker will be removed after the batch commit.
