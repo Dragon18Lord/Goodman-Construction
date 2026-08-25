@@ -1,0 +1,1 @@
+Do not use these notes for site images.
